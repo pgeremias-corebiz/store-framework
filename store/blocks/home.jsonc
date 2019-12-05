@@ -43,6 +43,7 @@
     },
     "flex-layout.row": {
        "children": [
+         "info-card#rethink",
          "flex-layout.col"
        ]
      },
