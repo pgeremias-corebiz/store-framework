@@ -23,10 +23,6 @@
   background-color: #EDCFD1;
 }
 
-.infoCardContainer--metal {
-  background-color: #E1E1E1;
-}
-
 .infoCardContainer {
   max-width: 1260px;
   margin: 0 auto;
@@ -38,6 +34,6 @@
   font-weight: bold;
 }
 
-.infoCardCallActionContainer:hover {
+.infoCardCallActionContainer :global(.vtex-button):hover {
   background-color: white;
 }
